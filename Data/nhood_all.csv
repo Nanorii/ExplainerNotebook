@@ -1,0 +1,780 @@
+year,Neighborhood,Calls
+2001,Bayview Hunters Point,14184
+2001,Bernal Heights,4542
+2001,Castro/Upper Market,4993
+2001,Chinatown,4797
+2001,Excelsior,4652
+2001,Financial District/South Beach,16451
+2001,Glen Park,878
+2001,Golden Gate Park,1217
+2001,Haight Ashbury,3043
+2001,Hayes Valley,5080
+2001,Inner Richmond,3290
+2001,Inner Sunset,3747
+2001,Japantown,2002
+2001,Lakeshore,2637
+2001,Lincoln Park,263
+2001,Lone Mountain/USF,2553
+2001,Marina,4077
+2001,McLaren Park,170
+2001,Mission,20877
+2001,Mission Bay,1774
+2001,Nob Hill,6757
+2001,Noe Valley,2687
+2001,North Beach,4251
+2001,Oceanview/Merced/Ingleside,3388
+2001,Outer Mission,3386
+2001,Outer Richmond,5605
+2001,Pacific Heights,4468
+2001,Portola,2193
+2001,Potrero Hill,4471
+2001,Presidio,102
+2001,Presidio Heights,2048
+2001,Russian Hill,3326
+2001,Seacliff,322
+2001,South of Market,19101
+2001,Sunset/Parkside,8742
+2001,Tenderloin,26485
+2001,Treasure Island,1456
+2001,Twin Peaks,963
+2001,Visitacion Valley,3696
+2001,West of Twin Peaks,4882
+2001,Western Addition,8242
+2002,Bayview Hunters Point,14081
+2002,Bernal Heights,5119
+2002,Castro/Upper Market,4857
+2002,Chinatown,5051
+2002,Excelsior,4760
+2002,Financial District/South Beach,16007
+2002,Glen Park,1110
+2002,Golden Gate Park,1110
+2002,Haight Ashbury,3037
+2002,Hayes Valley,5207
+2002,Inner Richmond,3512
+2002,Inner Sunset,3678
+2002,Japantown,2118
+2002,Lakeshore,2909
+2002,Lincoln Park,250
+2002,Lone Mountain/USF,2850
+2002,Marina,4165
+2002,McLaren Park,269
+2002,Mission,21092
+2002,Mission Bay,1629
+2002,Nob Hill,6977
+2002,Noe Valley,2586
+2002,North Beach,4311
+2002,Oceanview/Merced/Ingleside,4051
+2002,Outer Mission,3556
+2002,Outer Richmond,6442
+2002,Pacific Heights,4610
+2002,Portola,2369
+2002,Potrero Hill,4751
+2002,Presidio,191
+2002,Presidio Heights,2143
+2002,Russian Hill,3491
+2002,Seacliff,364
+2002,South of Market,19436
+2002,Sunset/Parkside,10006
+2002,Tenderloin,26185
+2002,Treasure Island,1228
+2002,Twin Peaks,1181
+2002,Visitacion Valley,3495
+2002,West of Twin Peaks,5874
+2002,Western Addition,8574
+2003,Bayview Hunters Point,13630
+2003,Bernal Heights,5729
+2003,Castro/Upper Market,5119
+2003,Chinatown,5790
+2003,Excelsior,4590
+2003,Financial District/South Beach,16964
+2003,Glen Park,1179
+2003,Golden Gate Park,1383
+2003,Haight Ashbury,4052
+2003,Hayes Valley,5869
+2003,Inner Richmond,4307
+2003,Inner Sunset,4303
+2003,Japantown,2139
+2003,Lakeshore,3026
+2003,Lincoln Park,316
+2003,Lone Mountain/USF,3018
+2003,Marina,4716
+2003,McLaren Park,332
+2003,Mission,21539
+2003,Mission Bay,1486
+2003,Nob Hill,7719
+2003,Noe Valley,2759
+2003,North Beach,5156
+2003,Oceanview/Merced/Ingleside,4244
+2003,Outer Mission,3447
+2003,Outer Richmond,6716
+2003,Pacific Heights,5332
+2003,Portola,2437
+2003,Potrero Hill,4963
+2003,Presidio,237
+2003,Presidio Heights,2329
+2003,Russian Hill,4037
+2003,Seacliff,428
+2003,South of Market,19164
+2003,Sunset/Parkside,10712
+2003,Tenderloin,27374
+2003,Treasure Island,1450
+2003,Twin Peaks,1489
+2003,Visitacion Valley,3430
+2003,West of Twin Peaks,5991
+2003,Western Addition,9926
+2004,Bayview Hunters Point,13328
+2004,Bernal Heights,5584
+2004,Castro/Upper Market,4987
+2004,Chinatown,5243
+2004,Excelsior,4462
+2004,Financial District/South Beach,15692
+2004,Glen Park,1242
+2004,Golden Gate Park,1320
+2004,Haight Ashbury,3536
+2004,Hayes Valley,5938
+2004,Inner Richmond,4058
+2004,Inner Sunset,4085
+2004,Japantown,2202
+2004,Lakeshore,3109
+2004,Lincoln Park,290
+2004,Lone Mountain/USF,3068
+2004,Marina,4246
+2004,McLaren Park,265
+2004,Mission,21057
+2004,Mission Bay,1661
+2004,Nob Hill,8195
+2004,Noe Valley,2624
+2004,North Beach,5073
+2004,Oceanview/Merced/Ingleside,4235
+2004,Outer Mission,3417
+2004,Outer Richmond,7080
+2004,Pacific Heights,5200
+2004,Portola,2251
+2004,Potrero Hill,4839
+2004,Presidio,432
+2004,Presidio Heights,2166
+2004,Russian Hill,3868
+2004,Seacliff,399
+2004,South of Market,18233
+2004,Sunset/Parkside,10293
+2004,Tenderloin,28365
+2004,Treasure Island,1228
+2004,Twin Peaks,1558
+2004,Visitacion Valley,3318
+2004,West of Twin Peaks,5734
+2004,Western Addition,9880
+2005,Bayview Hunters Point,12903
+2005,Bernal Heights,5428
+2005,Castro/Upper Market,5327
+2005,Chinatown,5251
+2005,Excelsior,4459
+2005,Financial District/South Beach,14927
+2005,Glen Park,1193
+2005,Golden Gate Park,1417
+2005,Haight Ashbury,3515
+2005,Hayes Valley,5677
+2005,Inner Richmond,3617
+2005,Inner Sunset,4160
+2005,Japantown,2014
+2005,Lakeshore,3195
+2005,Lincoln Park,201
+2005,Lone Mountain/USF,2738
+2005,Marina,4536
+2005,McLaren Park,236
+2005,Mission,21214
+2005,Mission Bay,1827
+2005,Nob Hill,7306
+2005,Noe Valley,2819
+2005,North Beach,4851
+2005,Oceanview/Merced/Ingleside,3481
+2005,Outer Mission,3487
+2005,Outer Richmond,6655
+2005,Pacific Heights,5111
+2005,Portola,2243
+2005,Potrero Hill,4527
+2005,Presidio,557
+2005,Presidio Heights,2436
+2005,Russian Hill,3455
+2005,Seacliff,367
+2005,South of Market,18512
+2005,Sunset/Parkside,10041
+2005,Tenderloin,30178
+2005,Treasure Island,1442
+2005,Twin Peaks,1449
+2005,Visitacion Valley,3031
+2005,West of Twin Peaks,6002
+2005,Western Addition,9542
+2006,Bayview Hunters Point,13320
+2006,Bernal Heights,5338
+2006,Castro/Upper Market,5045
+2006,Chinatown,5490
+2006,Excelsior,4863
+2006,Financial District/South Beach,14665
+2006,Glen Park,1353
+2006,Golden Gate Park,1381
+2006,Haight Ashbury,3530
+2006,Hayes Valley,5740
+2006,Inner Richmond,3636
+2006,Inner Sunset,4145
+2006,Japantown,2160
+2006,Lakeshore,3336
+2006,Lincoln Park,215
+2006,Lone Mountain/USF,2814
+2006,Marina,4525
+2006,McLaren Park,279
+2006,Mission,20897
+2006,Mission Bay,1964
+2006,Nob Hill,7913
+2006,Noe Valley,2676
+2006,North Beach,4771
+2006,Oceanview/Merced/Ingleside,3750
+2006,Outer Mission,3977
+2006,Outer Richmond,6150
+2006,Pacific Heights,4891
+2006,Portola,2139
+2006,Potrero Hill,4163
+2006,Presidio,647
+2006,Presidio Heights,2181
+2006,Russian Hill,3462
+2006,Seacliff,397
+2006,South of Market,20357
+2006,Sunset/Parkside,10159
+2006,Tenderloin,29935
+2006,Treasure Island,1570
+2006,Twin Peaks,1692
+2006,Visitacion Valley,3288
+2006,West of Twin Peaks,5726
+2006,Western Addition,8415
+2007,Bayview Hunters Point,12982
+2007,Bernal Heights,5100
+2007,Castro/Upper Market,5346
+2007,Chinatown,5228
+2007,Excelsior,5257
+2007,Financial District/South Beach,14935
+2007,Glen Park,1205
+2007,Golden Gate Park,1314
+2007,Haight Ashbury,3267
+2007,Hayes Valley,5513
+2007,Inner Richmond,3424
+2007,Inner Sunset,4037
+2007,Japantown,2151
+2007,Lakeshore,3343
+2007,Lincoln Park,166
+2007,Lone Mountain/USF,2570
+2007,Marina,4440
+2007,McLaren Park,260
+2007,Mission,20346
+2007,Mission Bay,2163
+2007,Nob Hill,7414
+2007,Noe Valley,2571
+2007,North Beach,4755
+2007,Oceanview/Merced/Ingleside,3425
+2007,Outer Mission,4118
+2007,Outer Richmond,6647
+2007,Pacific Heights,4863
+2007,Portola,2148
+2007,Potrero Hill,4291
+2007,Presidio,703
+2007,Presidio Heights,2372
+2007,Russian Hill,3454
+2007,Seacliff,504
+2007,South of Market,21633
+2007,Sunset/Parkside,8892
+2007,Tenderloin,31326
+2007,Treasure Island,1644
+2007,Twin Peaks,1746
+2007,Visitacion Valley,3538
+2007,West of Twin Peaks,5449
+2007,Western Addition,8222
+2008,Bayview Hunters Point,12954
+2008,Bernal Heights,5041
+2008,Castro/Upper Market,6033
+2008,Chinatown,5080
+2008,Excelsior,5170
+2008,Financial District/South Beach,15737
+2008,Glen Park,1046
+2008,Golden Gate Park,1440
+2008,Haight Ashbury,3609
+2008,Hayes Valley,5830
+2008,Inner Richmond,3372
+2008,Inner Sunset,3827
+2008,Japantown,2201
+2008,Lakeshore,3913
+2008,Lincoln Park,237
+2008,Lone Mountain/USF,2905
+2008,Marina,4618
+2008,McLaren Park,324
+2008,Mission,22609
+2008,Mission Bay,2336
+2008,Nob Hill,8394
+2008,Noe Valley,2853
+2008,North Beach,4914
+2008,Oceanview/Merced/Ingleside,3439
+2008,Outer Mission,3707
+2008,Outer Richmond,7125
+2008,Pacific Heights,4938
+2008,Portola,2403
+2008,Potrero Hill,4500
+2008,Presidio,883
+2008,Presidio Heights,2356
+2008,Russian Hill,3896
+2008,Seacliff,445
+2008,South of Market,23593
+2008,Sunset/Parkside,9575
+2008,Tenderloin,33625
+2008,Treasure Island,1633
+2008,Twin Peaks,1637
+2008,Visitacion Valley,3400
+2008,West of Twin Peaks,5467
+2008,Western Addition,9431
+2009,Bayview Hunters Point,12552
+2009,Bernal Heights,4394
+2009,Castro/Upper Market,5857
+2009,Chinatown,5539
+2009,Excelsior,5065
+2009,Financial District/South Beach,15180
+2009,Glen Park,1142
+2009,Golden Gate Park,1682
+2009,Haight Ashbury,4021
+2009,Hayes Valley,5757
+2009,Inner Richmond,3270
+2009,Inner Sunset,3908
+2009,Japantown,2064
+2009,Lakeshore,3471
+2009,Lincoln Park,223
+2009,Lone Mountain/USF,2823
+2009,Marina,4554
+2009,McLaren Park,294
+2009,Mission,22223
+2009,Mission Bay,2560
+2009,Nob Hill,8111
+2009,Noe Valley,2843
+2009,North Beach,5252
+2009,Oceanview/Merced/Ingleside,3420
+2009,Outer Mission,3667
+2009,Outer Richmond,6523
+2009,Pacific Heights,4926
+2009,Portola,2475
+2009,Potrero Hill,4207
+2009,Presidio,939
+2009,Presidio Heights,2355
+2009,Russian Hill,3773
+2009,Seacliff,415
+2009,South of Market,24597
+2009,Sunset/Parkside,9408
+2009,Tenderloin,32296
+2009,Treasure Island,1546
+2009,Twin Peaks,1234
+2009,Visitacion Valley,3261
+2009,West of Twin Peaks,5114
+2009,Western Addition,9218
+2010,Bayview Hunters Point,13201
+2010,Bernal Heights,4634
+2010,Castro/Upper Market,6049
+2010,Chinatown,5272
+2010,Excelsior,5331
+2010,Financial District/South Beach,15257
+2010,Glen Park,1252
+2010,Golden Gate Park,1650
+2010,Haight Ashbury,3534
+2010,Hayes Valley,6008
+2010,Inner Richmond,3397
+2010,Inner Sunset,3976
+2010,Japantown,2426
+2010,Lakeshore,3859
+2010,Lincoln Park,205
+2010,Lone Mountain/USF,2847
+2010,Marina,4784
+2010,McLaren Park,383
+2010,Mission,23811
+2010,Mission Bay,3024
+2010,Nob Hill,9025
+2010,Noe Valley,2505
+2010,North Beach,5642
+2010,Oceanview/Merced/Ingleside,3303
+2010,Outer Mission,3624
+2010,Outer Richmond,6288
+2010,Pacific Heights,5280
+2010,Portola,2426
+2010,Potrero Hill,4521
+2010,Presidio,897
+2010,Presidio Heights,2499
+2010,Russian Hill,4047
+2010,Seacliff,375
+2010,South of Market,26290
+2010,Sunset/Parkside,9693
+2010,Tenderloin,34709
+2010,Treasure Island,1639
+2010,Twin Peaks,1615
+2010,Visitacion Valley,3314
+2010,West of Twin Peaks,5467
+2010,Western Addition,9586
+2011,Bayview Hunters Point,13201
+2011,Bernal Heights,4540
+2011,Castro/Upper Market,5928
+2011,Chinatown,5323
+2011,Excelsior,5634
+2011,Financial District/South Beach,16229
+2011,Glen Park,1343
+2011,Golden Gate Park,1489
+2011,Haight Ashbury,3907
+2011,Hayes Valley,6632
+2011,Inner Richmond,3775
+2011,Inner Sunset,4351
+2011,Japantown,2677
+2011,Lakeshore,3855
+2011,Lincoln Park,182
+2011,Lone Mountain/USF,3166
+2011,Marina,4756
+2011,McLaren Park,302
+2011,Mission,25100
+2011,Mission Bay,2932
+2011,Nob Hill,9440
+2011,Noe Valley,2658
+2011,North Beach,6018
+2011,Oceanview/Merced/Ingleside,3842
+2011,Outer Mission,3854
+2011,Outer Richmond,7154
+2011,Pacific Heights,5527
+2011,Portola,2611
+2011,Potrero Hill,4570
+2011,Presidio,979
+2011,Presidio Heights,2493
+2011,Russian Hill,4236
+2011,Seacliff,450
+2011,South of Market,28596
+2011,Sunset/Parkside,10073
+2011,Tenderloin,35803
+2011,Treasure Island,1563
+2011,Twin Peaks,1585
+2011,Visitacion Valley,3437
+2011,West of Twin Peaks,5588
+2011,Western Addition,10158
+2012,Bayview Hunters Point,13570
+2012,Bernal Heights,4472
+2012,Castro/Upper Market,6303
+2012,Chinatown,5439
+2012,Excelsior,5625
+2012,Financial District/South Beach,17050
+2012,Glen Park,1160
+2012,Golden Gate Park,1700
+2012,Haight Ashbury,4365
+2012,Hayes Valley,6793
+2012,Inner Richmond,3523
+2012,Inner Sunset,3939
+2012,Japantown,2029
+2012,Lakeshore,4188
+2012,Lincoln Park,211
+2012,Lone Mountain/USF,3123
+2012,Marina,4910
+2012,McLaren Park,261
+2012,Mission,24675
+2012,Mission Bay,2960
+2012,Nob Hill,8838
+2012,Noe Valley,3000
+2012,North Beach,5954
+2012,Oceanview/Merced/Ingleside,3736
+2012,Outer Mission,3700
+2012,Outer Richmond,7164
+2012,Pacific Heights,5237
+2012,Portola,2379
+2012,Potrero Hill,4588
+2012,Presidio,982
+2012,Presidio Heights,2159
+2012,Russian Hill,4376
+2012,Seacliff,379
+2012,South of Market,26996
+2012,Sunset/Parkside,10306
+2012,Tenderloin,36196
+2012,Treasure Island,1658
+2012,Twin Peaks,1463
+2012,Visitacion Valley,3074
+2012,West of Twin Peaks,5610
+2012,Western Addition,9390
+2013,Bayview Hunters Point,13642
+2013,Bernal Heights,4356
+2013,Castro/Upper Market,6544
+2013,Chinatown,5491
+2013,Excelsior,5318
+2013,Financial District/South Beach,17077
+2013,Glen Park,1044
+2013,Golden Gate Park,1759
+2013,Haight Ashbury,4494
+2013,Hayes Valley,7237
+2013,Inner Richmond,3739
+2013,Inner Sunset,4544
+2013,Japantown,2208
+2013,Lakeshore,3956
+2013,Lincoln Park,256
+2013,Lone Mountain/USF,3257
+2013,Marina,5311
+2013,McLaren Park,287
+2013,Mission,25634
+2013,Mission Bay,2963
+2013,Nob Hill,8909
+2013,Noe Valley,2863
+2013,North Beach,6302
+2013,Oceanview/Merced/Ingleside,3745
+2013,Outer Mission,3776
+2013,Outer Richmond,7174
+2013,Pacific Heights,5000
+2013,Portola,2661
+2013,Potrero Hill,4657
+2013,Presidio,1051
+2013,Presidio Heights,2251
+2013,Russian Hill,4495
+2013,Seacliff,366
+2013,South of Market,26983
+2013,Sunset/Parkside,10657
+2013,Tenderloin,38322
+2013,Treasure Island,2141
+2013,Twin Peaks,1569
+2013,Visitacion Valley,3606
+2013,West of Twin Peaks,5380
+2013,Western Addition,9621
+2014,Bayview Hunters Point,14525
+2014,Bernal Heights,4525
+2014,Castro/Upper Market,7502
+2014,Chinatown,5658
+2014,Excelsior,5308
+2014,Financial District/South Beach,19589
+2014,Glen Park,1200
+2014,Golden Gate Park,1783
+2014,Haight Ashbury,4228
+2014,Hayes Valley,7009
+2014,Inner Richmond,3667
+2014,Inner Sunset,4088
+2014,Japantown,2588
+2014,Lakeshore,4342
+2014,Lincoln Park,219
+2014,Lone Mountain/USF,3371
+2014,Marina,5433
+2014,McLaren Park,311
+2014,Mission,24995
+2014,Mission Bay,3532
+2014,Nob Hill,9249
+2014,Noe Valley,2926
+2014,North Beach,6405
+2014,Oceanview/Merced/Ingleside,3410
+2014,Outer Mission,4169
+2014,Outer Richmond,7465
+2014,Pacific Heights,5865
+2014,Portola,2377
+2014,Potrero Hill,4869
+2014,Presidio,1510
+2014,Presidio Heights,2249
+2014,Russian Hill,4388
+2014,Seacliff,429
+2014,South of Market,28683
+2014,Sunset/Parkside,10432
+2014,Tenderloin,37865
+2014,Treasure Island,1936
+2014,Twin Peaks,1305
+2014,Visitacion Valley,3401
+2014,West of Twin Peaks,5967
+2014,Western Addition,9871
+2015,Bayview Hunters Point,14615
+2015,Bernal Heights,4946
+2015,Castro/Upper Market,7422
+2015,Chinatown,6106
+2015,Excelsior,5718
+2015,Financial District/South Beach,21417
+2015,Glen Park,1320
+2015,Golden Gate Park,1892
+2015,Haight Ashbury,4930
+2015,Hayes Valley,7495
+2015,Inner Richmond,3925
+2015,Inner Sunset,4546
+2015,Japantown,2524
+2015,Lakeshore,4523
+2015,Lincoln Park,233
+2015,Lone Mountain/USF,3820
+2015,Marina,5409
+2015,McLaren Park,285
+2015,Mission,26349
+2015,Mission Bay,4131
+2015,Nob Hill,10264
+2015,Noe Valley,3165
+2015,North Beach,6874
+2015,Oceanview/Merced/Ingleside,3659
+2015,Outer Mission,3814
+2015,Outer Richmond,7677
+2015,Pacific Heights,6380
+2015,Portola,2662
+2015,Potrero Hill,5283
+2015,Presidio,1444
+2015,Presidio Heights,2283
+2015,Russian Hill,4997
+2015,Seacliff,392
+2015,South of Market,30312
+2015,Sunset/Parkside,11127
+2015,Tenderloin,39329
+2015,Treasure Island,1978
+2015,Twin Peaks,1481
+2015,Visitacion Valley,3453
+2015,West of Twin Peaks,6121
+2015,Western Addition,10358
+2016,Bayview Hunters Point,15334
+2016,Bernal Heights,5261
+2016,Castro/Upper Market,7628
+2016,Chinatown,6249
+2016,Excelsior,5778
+2016,Financial District/South Beach,22402
+2016,Glen Park,1412
+2016,Golden Gate Park,1805
+2016,Haight Ashbury,4862
+2016,Hayes Valley,7167
+2016,Inner Richmond,4143
+2016,Inner Sunset,4408
+2016,Japantown,2514
+2016,Lakeshore,4471
+2016,Lincoln Park,238
+2016,Lone Mountain/USF,3698
+2016,Marina,5720
+2016,McLaren Park,384
+2016,Mission,26833
+2016,Mission Bay,4848
+2016,Nob Hill,9972
+2016,Noe Valley,3167
+2016,North Beach,7082
+2016,Oceanview/Merced/Ingleside,4109
+2016,Outer Mission,4130
+2016,Outer Richmond,7970
+2016,Pacific Heights,6071
+2016,Portola,2662
+2016,Potrero Hill,5154
+2016,Presidio,1581
+2016,Presidio Heights,2254
+2016,Russian Hill,4939
+2016,Seacliff,452
+2016,South of Market,31248
+2016,Sunset/Parkside,10760
+2016,Tenderloin,41739
+2016,Treasure Island,2166
+2016,Twin Peaks,1740
+2016,Visitacion Valley,3346
+2016,West of Twin Peaks,6107
+2016,Western Addition,10676
+2017,Bayview Hunters Point,15761
+2017,Bernal Heights,5391
+2017,Castro/Upper Market,8717
+2017,Chinatown,5964
+2017,Excelsior,6241
+2017,Financial District/South Beach,21790
+2017,Glen Park,1577
+2017,Golden Gate Park,1767
+2017,Haight Ashbury,5287
+2017,Hayes Valley,7889
+2017,Inner Richmond,4653
+2017,Inner Sunset,4796
+2017,Japantown,2674
+2017,Lakeshore,4566
+2017,Lincoln Park,362
+2017,Lone Mountain/USF,4002
+2017,Marina,5668
+2017,McLaren Park,374
+2017,Mission,28090
+2017,Mission Bay,4838
+2017,Nob Hill,9884
+2017,Noe Valley,3000
+2017,North Beach,6943
+2017,Oceanview/Merced/Ingleside,3819
+2017,Outer Mission,4420
+2017,Outer Richmond,8432
+2017,Pacific Heights,6252
+2017,Portola,3098
+2017,Potrero Hill,5387
+2017,Presidio,1625
+2017,Presidio Heights,2601
+2017,Russian Hill,4335
+2017,Seacliff,541
+2017,South of Market,31354
+2017,Sunset/Parkside,11360
+2017,Tenderloin,42610
+2017,Treasure Island,2274
+2017,Twin Peaks,1815
+2017,Visitacion Valley,3615
+2017,West of Twin Peaks,6730
+2017,Western Addition,10669
+2018,Bayview Hunters Point,15625
+2018,Bernal Heights,4962
+2018,Castro/Upper Market,8274
+2018,Chinatown,5959
+2018,Excelsior,6202
+2018,Financial District/South Beach,23713
+2018,Glen Park,1512
+2018,Golden Gate Park,1735
+2018,Haight Ashbury,4541
+2018,Hayes Valley,7808
+2018,Inner Richmond,3999
+2018,Inner Sunset,4554
+2018,Japantown,2785
+2018,Lakeshore,4538
+2018,Lincoln Park,259
+2018,Lone Mountain/USF,3623
+2018,Marina,6096
+2018,McLaren Park,375
+2018,Mission,27000
+2018,Mission Bay,4873
+2018,Nob Hill,9879
+2018,Noe Valley,3189
+2018,North Beach,6554
+2018,Oceanview/Merced/Ingleside,3997
+2018,Outer Mission,4303
+2018,Outer Richmond,7174
+2018,Pacific Heights,6090
+2018,Portola,2906
+2018,Potrero Hill,5500
+2018,Presidio,1576
+2018,Presidio Heights,2583
+2018,Russian Hill,4478
+2018,Seacliff,544
+2018,South of Market,32537
+2018,Sunset/Parkside,10838
+2018,Tenderloin,43854
+2018,Treasure Island,2232
+2018,Twin Peaks,1962
+2018,Visitacion Valley,3719
+2018,West of Twin Peaks,6386
+2018,Western Addition,10677
+2019,Bayview Hunters Point,16870
+2019,Bernal Heights,5378
+2019,Castro/Upper Market,7867
+2019,Chinatown,5625
+2019,Excelsior,6166
+2019,Financial District/South Beach,22498
+2019,Glen Park,1600
+2019,Golden Gate Park,1630
+2019,Haight Ashbury,4117
+2019,Hayes Valley,7927
+2019,Inner Richmond,4132
+2019,Inner Sunset,4620
+2019,Japantown,2777
+2019,Lakeshore,5157
+2019,Lincoln Park,332
+2019,Lone Mountain/USF,3621
+2019,Marina,6383
+2019,McLaren Park,434
+2019,Mission,28692
+2019,Mission Bay,5315
+2019,Nob Hill,10522
+2019,Noe Valley,3184
+2019,North Beach,6376
+2019,Oceanview/Merced/Ingleside,3889
+2019,Outer Mission,4237
+2019,Outer Richmond,7620
+2019,Pacific Heights,6685
+2019,Portola,2849
+2019,Potrero Hill,5604
+2019,Presidio,1692
+2019,Presidio Heights,2537
+2019,Russian Hill,4672
+2019,Seacliff,519
+2019,South of Market,34940
+2019,Sunset/Parkside,11252
+2019,Tenderloin,45805
+2019,Treasure Island,2128
+2019,Twin Peaks,1876
+2019,Visitacion Valley,3291
+2019,West of Twin Peaks,7006
+2019,Western Addition,10606
